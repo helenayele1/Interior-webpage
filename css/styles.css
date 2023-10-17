@@ -19,15 +19,15 @@ h1 {
 .column {
     width: 300px;
     float: left;
-    width: 35%;
-    background-color: lightgray;
-    border: 2px solid green;
-    padding: 4px;
+    width: 40%;
+    border: 5px solid black;
+    padding: 8px;
+    background-color: grey;
   }
 
   .small-img {
-    width: 350px;
-    height: 400px
+    width: 400px;
+    height: 450px
     
   }
 
