@@ -1,9 +1,16 @@
 
 h1 {
-    color: lightskyblue;
+    text-align: center;
 }
 
+#line2 {
+   font-style:italic;
+   text-align: center;
+
+  }
+
 .sidebar {
+    text-align: center;
     width: 40%;
     background-color:gray;
   }
@@ -11,13 +18,16 @@ h1 {
 .column {
     width: 300px;
     float: left;
+    width: 35%;
+    background-color: lightgray
   }
 
   .small-img {
-    width: 250px;
-    height: 250px
+    width: 350px;
+    height: 400px
   }
 
   .back-ground {
     color: beige;
+    
   }
