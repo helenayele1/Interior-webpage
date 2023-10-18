@@ -1,4 +1,12 @@
 
+.top-bar {
+    background-color: rgb(167, 117, 167);
+    color: #fff; 
+    text-align: center; 
+    padding: 0px; 
+
+}
+
 h1 {
     text-align: center;
     font-style:oblique
@@ -10,28 +18,23 @@ h1 {
 
   }
 
-.sidebar {
-    text-align: center;
-    width: 40%;
-    background-color:gray;
-  }
-
 .column {
     width: 300px;
-    float: left;
-    width: 40%;
-    border: 5px solid black;
-    padding: 8px;
-    background-color: grey;
+    width: 35%;
+    border: 3px solid black;
+    padding: 5px; 
+    background-color: rgb(160, 149, 149)
   }
 
-  .small-img {
+  .container {
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh; 
+  }
+
+  .small-img {  
     width: 400px;
-    height: 450px
-    
-  }
-
-  .back-ground {
-    color: beige;
-    
+    height: 500px
   }
