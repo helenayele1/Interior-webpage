@@ -20,6 +20,8 @@ To view the DecorDaze website, follow these steps:
 1. Clone this repository or download the HTML file.
 2. Open the HTML file in your preferred web browser.
 
+See demo here: https://helenayele1.github.io/Interior-webpage/
+
 ## Known Bugs
 
 * No known issues.
