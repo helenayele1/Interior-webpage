@@ -20,10 +20,10 @@ h1 {
 
 .column {
     width: 300px;
-    width: 35%;
-    border: 3px solid black;
+    width: 40%;
     padding: 5px; 
-    background-color: rgb(160, 149, 149)
+    background-color: rgb(162, 159, 171);
+    border-radius: 10px
   }
 
   .container {
@@ -35,6 +35,7 @@ h1 {
   }
 
   .small-img {  
-    width: 400px;
-    height: 500px
+    width: 500px;
+    height: 550px;
+    border: 4px solid black;
   }
